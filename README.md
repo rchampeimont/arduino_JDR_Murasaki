@@ -10,3 +10,5 @@ There are japanese characters on the left (the world "dice" is written in japane
 YouTube video showing the result: https://www.youtube.com/watch?v=AVDi9lR1IQA
 
 ![Circuit](/images/circuit.jpg?raw=true)
+
+![Schematic](/images/schematic.png?raw=true)
